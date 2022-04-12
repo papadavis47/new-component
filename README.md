@@ -6,6 +6,8 @@
 
 # `new-component`
 
+#### Modified from Josh Comeau's NPM Package
+
 ### Simple, customizable utility for adding new React components to your project.
 
 <img src="https://github.com/joshwcomeau/new-component/blob/master/docs/divider@2x.png?raw=true" width="888" height="100" role="presentation">
