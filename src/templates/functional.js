@@ -1,8 +1,9 @@
-import React from 'react';
-
-
 const COMPONENT_NAME = () => {
-  return <div />;
+  return (
+    <div>
+
+    </div>
+  )
 };
 
 export default COMPONENT_NAME;

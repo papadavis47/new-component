@@ -31,7 +31,7 @@ module.exports.getConfig = () => {
 
   const defaults = {
     type: 'functional',
-    dir: 'src/components',
+    dir: 'components/',
     extension: 'js',
   };
 
